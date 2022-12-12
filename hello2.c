@@ -4,6 +4,6 @@
 
 int main(int argc, char const *argv[])
 {
-	printf("Hello world\n");
+	printf("\nHello Jack\n\n");
 	return 0;
 }
