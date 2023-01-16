@@ -14,6 +14,7 @@ int main() {
         sum += remainder;
         num /= 10;
     }
+    
     printf("Sum of digits: %d\n", sum);
 
     return 0;
