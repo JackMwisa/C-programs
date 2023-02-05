@@ -35,12 +35,10 @@ int main(){
     scanf("%d", &age);
 
     printf("Please enter your address\n");
-    scanf("%s", &address);
- 
+    scanf("%s", &address); 
 
     printf("%s and %s and %s and %d and %s \n", first_name, last_name, sex, age, address);
 
-	
     return 0;
 
     
